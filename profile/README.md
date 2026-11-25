@@ -81,7 +81,7 @@ A arquitetura do LiBraille divide-se em repositórios independentes. Consulte o 
 | **`libraille-frontend`** | Interface web acessível, leitor visual sincronizado, fluxo de ativação e comunicação USB (Web Serial API). | React, JavaScript, HTML5, CSS3 |
 | **`libraille-backend`** | Serviços de API, regras de negócio, autenticação e integração com a camada de persistência. | Python, Supabase (PostgreSQL) |
 | **`libraille-firmware`** | Código embarcado para recepção dos pacotes binários, controle de velocidade e acionamento dos 6 pinos táteis. | C++, ESP32-C3, PCA9685 |
-| **`tradutor-libraille`** | Módulo dedicado à transliteração de caracteres e regras do Braille para matriz de 6 bits. | Python / JavaScript |
+| **`tradutor-libraille`** | Módulo dedicado à transliteração de caracteres e regras do Braille para matriz de 6 bits. | Python |
 
 ---
 
