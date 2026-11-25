@@ -42,7 +42,7 @@ flowchart LR
 1. **Aquisição do Dispositivo:** O usuário realiza a solicitação do leitor físico LiBraille (cada unidade possui um identificador único de hardware).
 2. **Emissão da Chave de Ativação:** Após a confirmação do pedido, o sistema disponibiliza uma chave de ativação vinculada ao dispositivo.
 3. **Ativação e Cadastro na Plataforma:** Na tela de primeiro acesso do site, o usuário informa a chave recebida, cria suas credenciais (nome, e-mail e senha) e libera o painel de leitura.
-4. **Conexão e Leitura Tátil:** Com a conta ativa, basta conectar o LiBraille ao computador via cabo USB, selecionar um arquivo de texto na sessão e iniciar a leitura tátil com ajuste de velocidade no próprio aparelho.
+4. **Conexão e Leitura Tátil:** Com a conta ativa, basta conectar o LiBraille ao computador via cabo USB, selecionar um arquivo de texto na sessão e iniciar a leitura tátil.
 
 ---
 
