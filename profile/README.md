@@ -15,7 +15,7 @@
 
 <br/>
 
-[![Acessar Site](https://img.shields.io/badge/🌐_Acessar_Site-0D1117?style=for-the-badge&logoColor=white)](https://libraille.vercel.app/)
+[![Acessar Site](https://img.shields.io/badge/🌐_Acessar_Site-2E2B75?style=for-the-badge&logoColor=white)](https://libraille.vercel.app/)
 [![Linktree](https://img.shields.io/badge/Nossos_Links_(Linktree)-43E55E?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/LiBraille)
 
 <br/>
