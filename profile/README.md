@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="../assets/logoCircular.png" alt="Logo" width="100" />
+<img src="../assets/logoCircular.png" alt="Logo do LiBraille: letras L e B integradas a uma célula Braille de seis pontos sobre um livro aberto" width="100" />
 
 </p>
 
