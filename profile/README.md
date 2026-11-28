@@ -9,14 +9,14 @@
 # LiBraille
 ### Tecnologia Assistiva Acessível para Leitura Tátil em Braille
 
-[![Status](https://img.shields.io/badge/Status-MVP-00C853?style=for-the-badge)]()
-[![Acessibilidade](https://img.shields.io/badge/Foco-Inclusão%20e%20Acessibilidade-2962FF?style=for-the-badge)]()
-[![Privacidade](https://img.shields.io/badge/Privacidade-LGPD%20Compliant-6200EA?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/Status-MVP-C59920?style=for-the-badge)]()
+[![Acessibilidade](https://img.shields.io/badge/Foco-Inclusão%20e%20Acessibilidade-0C1141?style=for-the-badge)]()
+[![Privacidade](https://img.shields.io/badge/Privacidade-LGPD%20Compliant-3F0157?style=for-the-badge)]()
 
 <br/>
 
 [![Acessar Site](https://img.shields.io/badge/🌐_Acessar_Site-2E2B75?style=for-the-badge&logoColor=white)](https://libraille.vercel.app/)
-[![Linktree](https://img.shields.io/badge/Nossos_Links_(Linktree)-43E55E?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/LiBraille)
+[![Linktree](https://img.shields.io/badge/Nossos_Links_(Linktree)-238636?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/LiBraille)
 
 <br/>
 
