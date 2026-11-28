@@ -1,6 +1,9 @@
-<div align="center">
+<p align="center">
+    
 <img width="100" height="100" alt="Logo ao lado do card" src="https://github.com/user-attachments/assets/b7504082-e68b-44e6-bf64-205a5489aa5a" />
-</div>
+
+</p>
+
 <div align="center">
 
 # LiBraille
