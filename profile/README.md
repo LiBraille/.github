@@ -1,6 +1,5 @@
 <p align="center">
     
-<img src="assets/logo redonda.png" alt="Logo" width="160" />
 
 </p>
 
